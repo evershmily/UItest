@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>加上断言试试
+https://hr.aetest.bwae.org/kpi-salary-ui/#/kpiSetting</description>
+   <name>V.0.0.3login</name>
+   <tag>V.0.0.3login</tag>
+   <comment></comment>
+   <testCaseGuid>daf052bd-1c0d-4aec-ab0e-6c9470bad541</testCaseGuid>
+   <variable>
+      <defaultValue>'554'</defaultValue>
+      <description></description>
+      <id>b5e61443-db9d-4ce5-85a0-ca81dbbb3667</id>
+      <masked>false</masked>
+      <name>uid</name>
+   </variable>
+</TestCaseEntity>
