@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>project_list</name>
+   <tag></tag>
+   <elementGuidId>ccad0c05-e091-4436-970c-c26753a5bc35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>project_list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>abc-wwwwwwww123  移动至  取消置顶 进入项目 项目描述：字母数字横线齐全s 项目负责人：杨明 2019-06-10 17:33thisnewproject  移动至  取消置顶 进入项目 项目描述：真理可以输入五十个汉字真理可以输入五十个汉字真理可以输入五十个汉字真理可以输入五十个汉字真理可以输s 项目负责人：杨明 2019-04-22 14:08loop  移动至  取消置顶 进入项目 项目描述：上线前的最后一个项目上线前的最后一个项目上线前的最后一个项目上线前的最后一个项目上线前的最后一个ui 项目负责人：杨明 2019-01-11 19:44deletes  移动至 置顶  进入项目 项目描述：- 项目负责人：杨明 2019-06-26 14:56build-sing  移动至 置顶  进入项目 项目描述：builds 项目负责人：杨明 2019-05-13 11:38basemok  移动至 置顶  进入项目 项目描述：basemokbasemokbasemokbasemokbasemokbasemokbasemok1 项目负责人：杨明 2019-05-09 15:24base-lenthmacww  移动至 置顶  进入项目 项目描述：一个差不多的项目 项目负责人：杨明 2019-05-07 16:24luzz  移动至 置顶  进入项目 项目描述：luzz 项目负责人：杨明 2019-02-26 16:48zwp  移动至 置顶  进入项目 项目描述：- 项目负责人：杨明 2019-01-11 17:40sj-2019  移动至 置顶  进入项目 项目描述：- 项目负责人：孙瑾 2019-01-08 15:39lidx-test1  移动至 置顶  进入项目 项目描述：一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十 项目负责人：李东旭 2019-01-07 10:28 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[2]/div[1]/div[@class=&quot;body_container&quot;]/div[@class=&quot;project_list&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='创建项目'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='没用的项目'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

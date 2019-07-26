@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登陆外部用户</description>
+   <name>AE_login</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>bbf3d3fc-8fb7-4a36-96e7-f03e0892edcf</testCaseGuid>
+</TestCaseEntity>

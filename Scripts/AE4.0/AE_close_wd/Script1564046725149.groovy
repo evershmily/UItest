@@ -17,7 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('bwae.test.bwae.org')
+WebUI.navigateToUrl('https://bwae.test.bwae.org')
 
 WebUI.delay(1)
 
@@ -31,21 +31,15 @@ WebUI.click(findTestObject('AE4.0/Page_/a__localLoginBtn'))
 
 WebUI.click(findTestObject('AE4.0/Page_/loginBtn'))
 
-WebUI.setText(findTestObject('AE4.0/Page_BWAE - Container Cloud/prj_input__search'), 'abc')
+WebUI.check(findTestObject('AE4.0/Page_BWAE - Container Cloud/Page_BWAE - Container Cloud/hub_access'))
 
-WebUI.click(findTestObject('AE4.0/Page_BWAE - Container Cloud/prj_search'))
+//切换窗口
+WebUI.switchToWindowIndex(0)
 
-WebUI.click(findTestObject('AE4.0/Page_BWAE - Container Cloud/prj_name'))
+//通过 处于浏览器的位置进行关闭 从 0 开始
+WebUI.closeWindowIndex(1)
 
-//鼠标移动至某左侧元素上，出现左侧菜单栏
-WebUI.mouseOver(findTestObject('Object Repository/AE4.0/Page_BWAE - Container Cloud/div_'))
-
-WebUI.click(findTestObject('AE4.0/Page_BWAE - Container Cloud/my_prj'))
-
-WebUI.click(findTestObject('AE4.0/Page_BWAE - Container Cloud/prj_info'))
-
-//3s后关闭浏览器
-WebUI.delay(3)
+WebUI.delay(10)
 
 WebUI.closeBrowser()
 
